@@ -1,0 +1,8 @@
+﻿  Phone.cpp
+d:\visualstudio project\superstudent\superstudent\phone.cpp(15): warning C4551: в вызове функции отсутствует список аргументов
+  d:\visualstudio project\superstudent\superstudent\phone.cpp(20): note: выполняется компиляция ссылки на экземпляр шаблон функции "T *giveMemory<char>(int)"
+          with
+          [
+              T=char
+          ]
+  SuperStudent.vcxproj -> D:\VisualStudio project\SuperStudent\Debug\SuperStudent.exe

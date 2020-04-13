@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1568657330 source:d:\visualstudio project\superstudent\superstudent\source.cpp
+	<iostream>
+	"Date.h"
+	"DateValidator.h"
+	"ExeptionDate.h"
+	"Month.h"
+
+1568657246 d:\visualstudio project\superstudent\superstudent\date.h
+	<iostream>
+	<string>
+	"Month.h"
+
+1568613217 d:\visualstudio project\superstudent\superstudent\month.h
+
+1568613186 d:\visualstudio project\superstudent\superstudent\datevalidator.h
+
+1568613176 d:\visualstudio project\superstudent\superstudent\exeptiondate.h
+
+1568657607 source:d:\visualstudio project\superstudent\superstudent\datevalidator.cpp
+	<time.h>
+	"DateValidator.h"
+
+1568657662 source:d:\visualstudio project\superstudent\superstudent\date.cpp
+	<iostream>
+	<time.h>
+	"Date.h"
+	"ExeptionDate.h"
+	"DateValidator.h"
+

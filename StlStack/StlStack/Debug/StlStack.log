@@ -1,0 +1,5 @@
+﻿  Source.cpp
+d:\visualstudioproject\stlstack\stlstack\source.cpp(50): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+d:\visualstudioproject\stlstack\stlstack\source.cpp(17): warning C4101: buf: неиспользованная локальная переменная
+d:\visualstudioproject\stlstack\stlstack\source.cpp(16): warning C4101: s: неиспользованная локальная переменная
+  StlStack.vcxproj -> D:\VisualStudioProject\StlStack\Debug\StlStack.exe
